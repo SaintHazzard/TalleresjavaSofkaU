@@ -1,2 +1,4 @@
-package T2;public interface input {
+package T2;
+
+public interface input {
 }
