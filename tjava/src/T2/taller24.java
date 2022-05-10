@@ -22,9 +22,10 @@ public class taller24 {
         System.out.println("3. Recibir pelicula");
 
 
-        System.out.println("Que pelicula deseas alquilar?");
+
+        eleccion=input.nextByte();
         switch (eleccion){
-            case 1 : System.out.println("1. "+pelicula1) ; System.out.println("2. "+pelicula2); System.out.println("3. "+pelicula3);
+            case 1 : System.out.println("Que pelicula deseas alquilar?");System.out.println("1. "+pelicula1) ; System.out.println("2. "+pelicula2); System.out.println("3. "+pelicula3);
             eleccion=input.nextByte();
 
                 switch (eleccion){
@@ -42,7 +43,9 @@ public class taller24 {
                 eleccion=input.nextByte();
                 switch (eleccion){
                     case 1:
+                        System.out.println("Escriba las observaciones");
                        anotacion=input.next();
+
                        System.out.println("Observaciones al recibir la pelicula: "+anotacion);
                        break;
                     case 2: System.out.println("Pelicula recibida sin novedades");

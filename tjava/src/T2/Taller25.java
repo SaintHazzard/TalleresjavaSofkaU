@@ -1,6 +1,6 @@
 package T2;
 
-import java.lang.ref.Cleaner;
+
 import java.util.Scanner;
 /*La Droguería Mi Salud presta sus servicios en la localidad de Suba y requiere una aplicación para poder facturar los '\
 productos que vende a sus clientes y para ello, los productos tienen unas características que deben indicársele al
