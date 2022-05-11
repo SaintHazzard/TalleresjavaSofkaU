@@ -27,8 +27,9 @@ public class taller28 {
             System.out.println("1. Grande"); System.out.println("2. Mediana"); System.out.println("3. Pequenia"); eleccion=input.nextByte();
 
             System.out.println("1. Dibujo con boceto del cliente"); System.out.println("2. Estandar"); System.out.println("3. Frutal"); eleccion=input.nextByte();
-            System.out.println("Pedido registrado con exito");
+            System.out.println("Pedido registrado con exito"); break;
         case 2: System.out.println("Tres leches/Pequenia/Estandar"); System.out.println("Tres leches/Grande/Estandar"); System.out.println("Crema y amapola/Grande/Estandar");
+        break;
 
 
         case 3: System.out.println("Indique sabor, tamanio y decoracion respectivamente"); rventa=input2.nextLine(); System.out.println("Precio de venta al cliente"); precio=input.nextInt();
