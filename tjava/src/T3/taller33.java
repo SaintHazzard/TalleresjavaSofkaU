@@ -10,7 +10,7 @@ public class taller33 {
 
         do {
         do {
-            System.out.print("-");
+            System.out.print(" ");
             i++;
                     } while (i<=k);
 
@@ -44,6 +44,27 @@ public class taller33 {
         k--;
 
         }while (0<=k);
+
+        for (int espacio=0; espacio <= 9; espacio++){
+            System.out.print(" ");
+        }
+        System.out.print("***");
+        System.out.println();
+        for (int espacio=0; espacio <= 9; espacio++){
+            System.out.print(" ");
+        }
+        System.out.print("***");
+        System.out.println();
+        for (int espacio=0; espacio <= 8; espacio++){
+            System.out.print(" ");
+        }
+        System.out.print("*****");
+        System.out.println();
+        for (int espacio=0; espacio <= 7; espacio++){
+            System.out.print(" ");
+        }
+        System.out.print("*******");
+
 
     }}
 
