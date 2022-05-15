@@ -4,11 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f5a074e3-ed8b-4799-90cc-56d78d2a6816" name="Changes" comment="termino taller 2">
-      <change afterPath="$PROJECT_DIR$/src/T3/taller34.java" afterDir="false" />
+    <list default="true" id="f5a074e3-ed8b-4799-90cc-56d78d2a6816" name="Changes" comment="termino taller 33 arbol">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/tjava/T3/taller33.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/tjava/T3/taller33.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/T3/taller33.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/T3/taller33.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/tjava/T3/taller34.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/tjava/T3/taller34.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/T3/taller34.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/T3/taller34.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +51,7 @@
       <recent name="T2" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.taller33">
+  <component name="RunManager" selected="Application.taller34">
     <configuration name="Principal4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="equals.Principal4" />
       <module name="tjava" />
@@ -127,8 +126,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.taller33" />
         <item itemvalue="Application.taller34" />
+        <item itemvalue="Application.taller33" />
         <item itemvalue="Application.taller31" />
         <item itemvalue="Application.taller32" />
         <item itemvalue="Application.Principal4" />
@@ -172,7 +171,14 @@
       <option name="project" value="LOCAL" />
       <updated>1652294666927</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="termino taller 33 arbol">
+      <created>1652627850307</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1652627850307</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -192,7 +198,8 @@
     <MESSAGE value="agrego taller 27 y 28" />
     <MESSAGE value="termino taller 2, testeo equivalente y equals" />
     <MESSAGE value="termino taller 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="termino taller 2" />
+    <MESSAGE value="termino taller 33 arbol" />
+    <option name="LAST_COMMIT_MESSAGE" value="termino taller 33 arbol" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -204,7 +211,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/T3/taller34.java</url>
-          <line>4</line>
+          <line>6</line>
           <option name="timeStamp" value="11" />
         </line-breakpoint>
       </breakpoints>
