@@ -39,8 +39,9 @@ public class taller36 {
                 case 3:
                     System.out.println("Escribe nombre ");
                     nombre=sn.next();
+                    c=new Contacto(nombre);
 
-                    agendatelefonica.eliminarcontacto(nombre);
+                    agendatelefonica.eliminarcontacto(c);
                     break;
                 case 4:
                     agendatelefonica.listarcontacto();

@@ -9,8 +9,11 @@ private String nombre, organizacion, telefono;
         this.nombre = nombre;
         this.organizacion = organizacion;
         this.telefono = telefono;
-
-
+    }
+    public Contacto(String nombre) {
+        this.nombre = nombre;
+        this.organizacion = null;
+        this.telefono = null;
     }
 
     public String getNombre() {
@@ -38,6 +41,13 @@ private String nombre, organizacion, telefono;
     }
     public boolean equals (Contacto c){
         if(this.telefono.equalsIgnoreCase(c.getTelefono())){
+            return true;
+        }
+        return false;
+
+    }
+    public boolean equals1 (Contacto c){
+        if(this.nombre.equalsIgnoreCase(c.getNombre())){
             return true;
         }
         return false;

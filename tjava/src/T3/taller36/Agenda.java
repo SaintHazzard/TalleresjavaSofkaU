@@ -1,7 +1,6 @@
 package T3.taller36;
 
-import javax.crypto.Cipher;
-import javax.management.monitor.StringMonitor;
+
 
 public class Agenda {
     private Contacto[] contactos;
@@ -76,10 +75,10 @@ public class Agenda {
         return true;
     }
 
-    public void eliminarcontacto(String nombre) {
+    public void eliminarcontacto(Contacto c) {
         boolean encontrado = false;
         for (int i = 0; i < contactos.length; i++) {
-            if (contactos[i] != null && contactos[i].equals(nombre)) {
+            if (contactos[i] != null && contactos[i].equals1(c)) {
                 contactos[i]=null;
                 encontrado =true;
             }
