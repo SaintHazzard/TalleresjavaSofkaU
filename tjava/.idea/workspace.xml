@@ -4,10 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f5a074e3-ed8b-4799-90cc-56d78d2a6816" name="Changes" comment="termino taller 33 arbol">
+    <list default="true" id="f5a074e3-ed8b-4799-90cc-56d78d2a6816" name="Changes" comment="termino taller 2">
+      <change afterPath="$PROJECT_DIR$/src/T3/taller35.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/T3/taller36/Agenda.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/T3/taller36/Contacto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/T3/taller36/taller36.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/tjava/T3/taller34.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/tjava/T3/taller34.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/T3/taller34.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/T3/taller34.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,8 +19,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -50,53 +52,17 @@
     <key name="CreateClassDialog.RecentsKey">
       <recent name="T2" />
     </key>
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="T3.taller36" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.taller34">
-    <configuration name="Principal4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="equals.Principal4" />
-      <module name="tjava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="equals.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="taller31" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="T3.taller31" />
-      <module name="tjava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="T3.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="taller32" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="T3.taller32" />
-      <module name="tjava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="T3.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="taller33" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.taller36">
+    <configuration name="T3.taller33" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="T3.taller33" />
       <module name="tjava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="T3.*" />
+          <option name="PATTERN" value="T3.taller36.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -104,12 +70,51 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="taller34" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="T3.taller34" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="T3.taller34" />
       <module name="tjava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="T3.*" />
+          <option name="PATTERN" value="T3.taller36.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="T3.taller35" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="T3.taller35" />
+      <module name="tjava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="T3.taller36.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="taller26" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="T2.taller26" />
+      <module name="tjava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="T2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="taller36" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="T3.taller36.taller36" />
+      <module name="tjava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="T3.taller36.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,19 +123,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.taller34" />
-      <item itemvalue="Application.Principal4" />
-      <item itemvalue="Application.taller31" />
-      <item itemvalue="Application.taller32" />
-      <item itemvalue="Application.taller33" />
+      <item itemvalue="Application.taller36" />
+      <item itemvalue="Application.T3.taller33" />
+      <item itemvalue="Application.T3.taller34" />
+      <item itemvalue="Application.T3.taller35" />
+      <item itemvalue="Application.taller26" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.taller34" />
-        <item itemvalue="Application.taller33" />
-        <item itemvalue="Application.taller31" />
-        <item itemvalue="Application.taller32" />
-        <item itemvalue="Application.Principal4" />
+        <item itemvalue="Application.taller36" />
+        <item itemvalue="Application.T3.taller35" />
+        <item itemvalue="Application.taller26" />
+        <item itemvalue="Application.T3.taller33" />
+        <item itemvalue="Application.T3.taller34" />
       </list>
     </recent_temporary>
   </component>
@@ -213,6 +218,20 @@
           <url>file://$PROJECT_DIR$/src/T3/taller34.java</url>
           <line>6</line>
           <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/T3/taller36/taller36.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/T3/taller35.java</url>
+          <line>8</line>
+          <properties class="T3.taller35" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="12" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
