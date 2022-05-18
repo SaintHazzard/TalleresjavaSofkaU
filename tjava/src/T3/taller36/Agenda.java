@@ -85,8 +85,9 @@ public class Agenda {
         }
         if (!encontrado){
             System.out.println("No se encontro contacto");
-        }
+        } else {System.out.println("Contacto eliminado");
     }
+}
 }
 
 
