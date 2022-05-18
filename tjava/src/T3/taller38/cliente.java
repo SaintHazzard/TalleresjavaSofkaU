@@ -25,7 +25,7 @@ public class cliente {
         this.estado = estado;
     }
 
-    public boolean equalsnombre(String c) {
+    public boolean equalsnombre(String nombre) {
         if (this.nombre.equalsIgnoreCase(getNombre())) {
             return true;
         }
@@ -44,7 +44,9 @@ public class cliente {
                 ", Estado en el curso: reprobado";}
 
 
-        }
+
+
+}
 
 
 

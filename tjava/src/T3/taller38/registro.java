@@ -23,21 +23,42 @@ public class registro {
 
     }
 
-    public void consultarcliente(String nombre){
-        for (int i=0; i<clientes.length;i++){
-            if (clientes[i]!=null && clientes[i].equalsnombre(nombre)){
-                System.out.println(clientes[i].getNombre()+" tiene el curso " + clientes[i].isEstado());
-
-            }
-        }
-    }
-
-    public void listarclientes() {
+    public void buscarnombre(String nombre) {
+        boolean encontrado = false;
         for (int i = 0; i < clientes.length; i++) {
-            if (clientes[i] != null) {
-                System.out.println(clientes[i]);
+            if (clientes[i] != null && clientes[i].getNombre().equalsIgnoreCase(nombre)) {
+                if (Boolean.parseBoolean("true")) {
+                    System.out.println(clientes[i].getNombre() + " estado del curso aprobado ");
+                }
+                if (Boolean.parseBoolean("false")) {
+                    System.out.println(clientes[i].getNombre() + " estado del curso reprobado ");
+                }
             }
         }
     }
 
-}
+
+
+        public void listarclientes () {
+            for (int i = 0; i < clientes.length; i++) {
+                if (clientes[i] != null) {
+                    System.out.println(clientes[i]);
+                }
+            }
+        }
+
+        public boolean existeContacto (cliente c){
+            for (int i = 0; i < clientes.length; i++) {
+                if (clientes[i] != null && c.equals(clientes[i])) {
+                    return true;
+                }
+            }
+            return false;
+        }
+    }
+
+
+
+
+
+

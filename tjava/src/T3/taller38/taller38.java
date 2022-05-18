@@ -38,7 +38,7 @@ public class taller38 {
                 case 2:
                     System.out.println("Nombre de usuario");
                     nombre=sn.next();
-                    registrocliente.consultarcliente(nombre);
+                    registrocliente.buscarnombre(nombre);
                     break;
                 case 3:
                     registrocliente.listarclientes();

@@ -5,16 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f5a074e3-ed8b-4799-90cc-56d78d2a6816" name="Changes" comment="agenda telefonica terminada">
-      <change afterPath="$PROJECT_DIR$/src/T3/taller37/atributos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/T3/taller37/datos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/T3/taller37/taller37.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/T3/taller38/cliente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/T3/taller38/registro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/T3/taller38/taller38.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/tjava/T3/taller36/taller36.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/tjava/T3/taller36/taller36.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/T3/taller36/Agenda.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/T3/taller36/Agenda.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/T3/taller36/taller36.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/T3/taller36/taller36.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/tjava/T3/taller38/cliente.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/tjava/T3/taller38/cliente.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/tjava/T3/taller38/registro.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/tjava/T3/taller38/registro.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/tjava/T3/taller38/taller38.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/T3/taller38/cliente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/T3/taller38/cliente.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/T3/taller38/registro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/T3/taller38/registro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/T3/taller38/taller38.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/T3/taller38/taller38.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
