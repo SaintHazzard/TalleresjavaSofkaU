@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f5a074e3-ed8b-4799-90cc-56d78d2a6816" name="Changes" comment="agenda telefonica">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/tjava/T3/taller36/taller36.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/tjava/T3/taller36/taller36.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/T3/taller36/Agenda.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/T3/taller36/Agenda.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/T3/taller36/Contacto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/T3/taller36/Contacto.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/T3/taller36/taller36.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/T3/taller36/taller36.java" afterDir="false" />
-    </list>
+    <list default="true" id="f5a074e3-ed8b-4799-90cc-56d78d2a6816" name="Changes" comment="pull git hub inicio taller 4" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -197,7 +191,14 @@
       <option name="project" value="LOCAL" />
       <updated>1652739920155</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="pull git hub inicio taller 4">
+      <created>1652902253375</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1652902253375</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -219,7 +220,8 @@
     <MESSAGE value="termino taller 2" />
     <MESSAGE value="termino taller 33 arbol" />
     <MESSAGE value="agenda telefonica" />
-    <option name="LAST_COMMIT_MESSAGE" value="agenda telefonica" />
+    <MESSAGE value="pull git hub inicio taller 4" />
+    <option name="LAST_COMMIT_MESSAGE" value="pull git hub inicio taller 4" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
