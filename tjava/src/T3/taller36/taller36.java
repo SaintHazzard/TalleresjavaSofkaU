@@ -9,7 +9,7 @@ public class taller36 {
         int eleccion;
         String nombre, organizacion, telefono;
         Agenda agendatelefonica = new Agenda();
-        Contacto c = null;
+        Contacto c;
 
         while (!salir) {
             System.out.println("1. Aniadir contacto");
