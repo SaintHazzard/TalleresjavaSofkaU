@@ -4,14 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f5a074e3-ed8b-4799-90cc-56d78d2a6816" name="Changes" comment="agenda telefonica terminada">
+    <list default="true" id="f5a074e3-ed8b-4799-90cc-56d78d2a6816" name="Changes" comment="retoques taller38">
+      <change afterPath="$PROJECT_DIR$/src/T3/taller36/Contacto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/T4/arraylist.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/T4/t41.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/T4/t42.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/T4/t43.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/T4/t44.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/tjava/T3/taller38/cliente.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/tjava/T3/taller38/cliente.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/tjava/T3/taller36/Contacto.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/tjava/T3/taller36/Contacto.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/tjava/T3/taller38/registro.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/tjava/T3/taller38/registro.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/tjava/T3/taller38/taller38.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/T3/taller38/cliente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/T3/taller38/cliente.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/T3/taller38/registro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/T3/taller38/registro.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/T3/taller38/taller38.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/T3/taller38/taller38.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,13 +60,13 @@
       <recent name="T3.taller36" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.taller38">
-    <configuration name="T3.taller35" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="T3.taller35" />
+  <component name="RunManager" selected="Application.t44">
+    <configuration name="t41" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="T4.t41" />
       <module name="tjava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="T3.taller36.*" />
+          <option name="PATTERN" value="T4.arraylist" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -72,12 +74,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="taller26" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="T2.taller26" />
+    <configuration name="t42" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="T4.t42" />
       <module name="tjava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="T2.*" />
+          <option name="PATTERN" value="T4.arraylist" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -85,12 +87,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="taller36" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="T3.taller36.taller36" />
+    <configuration name="t43" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="T4.t43" />
       <module name="tjava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="T3.taller36.*" />
+          <option name="PATTERN" value="T4.arraylist" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -98,12 +100,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="taller37" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="T3.taller37.taller37" />
+    <configuration name="t44" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="T4.t44" />
       <module name="tjava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="T3.taller37.*" />
+          <option name="PATTERN" value="T4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,33 +113,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="taller38" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="T3.taller38.taller38" />
-      <module name="tjava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="T3.taller38.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <list>
-      <item itemvalue="Application.taller37" />
-      <item itemvalue="Application.taller38" />
-      <item itemvalue="Application.taller36" />
-      <item itemvalue="Application.T3.taller35" />
-      <item itemvalue="Application.taller26" />
-    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.taller38" />
-        <item itemvalue="Application.taller37" />
-        <item itemvalue="Application.taller36" />
-        <item itemvalue="Application.T3.taller35" />
-        <item itemvalue="Application.taller26" />
+        <item itemvalue="Application.t44" />
+        <item itemvalue="Application.T4.t43" />
+        <item itemvalue="Application.T4.t42" />
+        <item itemvalue="Application.T4.t41" />
       </list>
     </recent_temporary>
   </component>
@@ -206,7 +187,14 @@
       <option name="project" value="LOCAL" />
       <updated>1652741263087</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="retoques taller38">
+      <created>1652907546983</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1652907546983</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -229,7 +217,8 @@
     <MESSAGE value="termino taller 33 arbol" />
     <MESSAGE value="agenda telefonica" />
     <MESSAGE value="agenda telefonica terminada" />
-    <option name="LAST_COMMIT_MESSAGE" value="agenda telefonica terminada" />
+    <MESSAGE value="retoques taller38" />
+    <option name="LAST_COMMIT_MESSAGE" value="retoques taller38" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
