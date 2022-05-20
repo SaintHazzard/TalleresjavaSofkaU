@@ -4,16 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f5a074e3-ed8b-4799-90cc-56d78d2a6816" name="Changes" comment="retoques taller38">
-      <change afterPath="$PROJECT_DIR$/src/T3/taller36/Contacto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/T4/arraylist.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/T4/t41.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/T4/t42.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/T4/t43.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/T4/t44.java" afterDir="false" />
+    <list default="true" id="f5a074e3-ed8b-4799-90cc-56d78d2a6816" name="Changes" comment="taller 3 terminado completamente">
+      <change afterPath="$PROJECT_DIR$/src/T4/t45.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/tjava/T3/taller36/Contacto.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/tjava/T3/taller36/Contacto.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/tjava/T3/taller38/registro.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/tjava/T3/taller38/registro.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/T4/t44.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/T4/t44.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -113,12 +107,30 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="t45" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="T4.t45" />
+      <module name="tjava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="T4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.t45" />
+      <item itemvalue="Application.t41" />
+      <item itemvalue="Application.t42" />
+      <item itemvalue="Application.t43" />
+      <item itemvalue="Application.t44" />
+    </list>
     <recent_temporary>
       <list>
         <item itemvalue="Application.t44" />
-        <item itemvalue="Application.T4.t43" />
-        <item itemvalue="Application.T4.t42" />
-        <item itemvalue="Application.T4.t41" />
+        <item itemvalue="Application.t45" />
       </list>
     </recent_temporary>
   </component>
@@ -237,6 +249,11 @@
           <url>file://$PROJECT_DIR$/src/T3/taller37/atributos.java</url>
           <line>44</line>
           <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/T4/t45.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="18" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/T3/taller35.java</url>

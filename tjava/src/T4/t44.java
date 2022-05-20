@@ -21,12 +21,15 @@ public class t44 {
 
         for (int i = 2; i <= 3; i++) {
             for (int k = 0; k <=4; k++) {
-                System.out.print(+matriz[i][k]);
+                System.out.print(matriz[i][k]);
                 System.out.print(" ");
             }
             System.out.println(" ");
         }
 
+        for (int i=0; i<3; i++){
+
+        }
 
     }
 }
